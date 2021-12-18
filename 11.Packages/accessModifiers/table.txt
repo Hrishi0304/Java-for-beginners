@@ -1,0 +1,6 @@
+		Access Levels
+Modifier 	Class 	Package Subclass World
+public 		  Y 	   Y 	   Y 	   Y
+protected 	  Y 	   Y 	   Y 	   N
+default		  Y 	   Y 	   N 	   N
+private 	  Y 	   N 	   N 	   N
