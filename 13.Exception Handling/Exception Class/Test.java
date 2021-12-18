@@ -1,4 +1,4 @@
-simport java.util.Scanner;
+import java.util.Scanner;
 
 class MyException extends Exception{
     @Override
